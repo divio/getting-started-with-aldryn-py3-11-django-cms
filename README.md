@@ -1,7 +1,7 @@
 # Getting started with Guidelines
 
 [![Deploy at Divio
-badge](https://img.shields.io/badge/deploy%20at%20divio-DFFF67)](https://control.divio.com/new?template_url=https://github.com/divio/getting-started-with-aldryn-py3-11-django/archive/refs/heads/main.zip)
+badge](https://img.shields.io/badge/deploy%20at%20divio-DFFF67)](https://control.divio.com/new?template_url=https://github.com/divio/getting-started-with-aldryn-py3-11-django-cms/archive/refs/heads/main.zip)
 
 
 This is a template project to bootstrap an Aldryn Django CMS application.
@@ -41,7 +41,7 @@ This project uses Docker and docker-compose which you can install from the [offi
 ### Clone the repository
 
 ```
-git clone https://github.com/divio/getting-started-with-aldryn-py3-11-django.git
+git clone https://github.com/divio/getting-started-with-aldryn-py3-11-django-cms.git
 ```
 
 ### Build the project
@@ -49,7 +49,7 @@ git clone https://github.com/divio/getting-started-with-aldryn-py3-11-django.git
 Let's build the docker image of the project.
 ```
 cd getting-started-with-aldryn-py3-11-django-cms
-docker-compose builds
+docker-compose build
 ```
 
 ### Run the project
@@ -68,5 +68,4 @@ Follow the official [Django development guides](https://docs.djangoproject.com/e
 
 ## Contribute to the project
 
-See the [contribution
-guide](https://github.com/flavours/getting-started-with-spring-boot/blob/master/CONTRIBUTING.md).
+See the [contribution guide](./CONTRIBUTING.md).
