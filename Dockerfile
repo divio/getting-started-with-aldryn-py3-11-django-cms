@@ -5,7 +5,7 @@
 # </WARNING>
 
 # <DOCKER_FROM>
-FROM divio/base:1.1-py3.11-slim-bullseye
+FROM divio/base:1.2-py3.11-slim-bookworm
 # </DOCKER_FROM>
 
 # <NPM>
