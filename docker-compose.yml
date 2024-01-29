@@ -3,7 +3,7 @@
 # servers, and has no effect whatsoever in cloud deployments.
 #
 # See our Developer Handbook for more information:
-# http://docs.divio.com/en/latest/reference/docker-docker-compose.html
+# http://docs.divio.com/en/latest/reference/docker-docker-compose
 version: "2"
 
 services:
@@ -26,7 +26,7 @@ services:
     # See https://docs.divio.com/en/latest/how-to/local-in-live-configuration/
     command: python manage.py runserver 0.0.0.0:80
     # Add any environment variables your project needs to the .env-local file.
-    # See https://docs.divio.com/en/latest/reference/configuration-environment-variables.html.
+    # See https://docs.divio.com/background/environment-variables/
     env_file: .env-local
 
   # On the Cloud, your database runs on a dedicated cluster. Locally, we
