@@ -28,6 +28,7 @@ RUN pip-reqs compile && \
 
 # <SOURCE>
 COPY . /app
+RUN chmod +x manage.py
 # </SOURCE>
 
 # <GULP>
