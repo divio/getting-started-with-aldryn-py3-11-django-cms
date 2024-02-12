@@ -1,4 +1,4 @@
-# Getting started with Guidelines
+# Getting started with Aldryn Django CMS
 
 [![Deploy at Divio
 badge](https://img.shields.io/badge/deploy%20at%20divio-DFFF67)](https://control.divio.com/new?template_url=https://github.com/divio/getting-started-with-aldryn-py3-11-django-cms/archive/refs/heads/main.zip)
