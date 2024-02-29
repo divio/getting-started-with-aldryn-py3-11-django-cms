@@ -6,7 +6,7 @@ This templates enables the Aldryn framework on Divio Cloud. We do not recommend 
 
 ## Cloud Setup
 
-Use the app creation wizard with a free [Divio Account](https://control.divio.com/) and choose **Aldryn django CMS** from the template selection. Alternatively, click the `Deploy to Divio` button above and follow the app creation wizard. Finally, deploy your app to the `test` or `live` environment.
+Create a [Divio Account](https://control.divio.com/) and choose **Aldryn django CMS** from the template selection when creating a new application. Alternatively, click the `Deploy to Divio` button above and follow the app creation wizard. Finally, deploy your app to the `test` or `live` environment.
 
 Beware that the **admin** user is not created automatically.
 You can do so by connecting via SSH and manually run `python manage.py createsuperuser`.
