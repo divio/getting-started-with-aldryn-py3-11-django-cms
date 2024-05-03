@@ -1,6 +1,6 @@
 # Getting Started with Aldryn Django CMS
 
-[![Deploy to Divio](https://img.shields.io/badge/DEPLOY-TO%20DIVIO-DFFF67?logo=docker&logoColor=white&labelColor=333333)](https://control.divio.com/app/new/?template_url=https://github.com/divio/getting-started-with-aldryn-py3-11-django-cms/archive/refs/heads/main.zip)
+[![Deploy to Divio](https://docs.divio.com/deploy-to-divio.svg)](https://control.divio.com/app/new/?template_url=https://github.com/divio/getting-started-with-aldryn-py3-11-django-cms/archive/refs/heads/main.zip)
 
 This templates enables the Aldryn framework on Divio Cloud. We do not recommend to use this template, use [Getting Started with Django CMS](https://github.com/divio/getting-started-with-django-cms) instead.
 
