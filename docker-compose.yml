@@ -18,7 +18,7 @@ services:
     command: python manage.py runserver 0.0.0.0:80
 
   database_default:
-    image: postgres:13.5-alpine
+    image: postgres:15.7-alpine
     environment:
       POSTGRES_DB: "db"
       POSTGRES_HOST_AUTH_METHOD: "trust"
